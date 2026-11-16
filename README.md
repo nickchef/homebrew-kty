@@ -1,6 +1,6 @@
 # homebrew-kty
 
-[KTY](https://github.com/nickchef/kty) 的 Homebrew 安装源。KTY 是一个 macOS 原生的 agent harness。
+KTY 的 Homebrew 安装源。KTY 是一个 macOS 原生的 agent harness。
 
 ```sh
 brew install --cask nickchef/kty/kty   # 安装
