@@ -1,6 +1,6 @@
 cask "kty" do
-  version "0.2.7"
-  sha256 "73d0d7700f10991ed486ee622418d0937ef287361c55339f813e5fdcc207ac4a"
+  version "0.2.8"
+  sha256 "8c2a4b204190b75de7bd5d4ec6e7ab07d0c0a22d447c3b4e8392cb416278ad23"
 
   url "https://github.com/nickchef/homebrew-kty/releases/download/v#{version}/KTY-#{version}.dmg"
   name "KTY"
